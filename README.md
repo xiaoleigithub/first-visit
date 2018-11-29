@@ -2,7 +2,7 @@
 ## TG代理：
 - <a href="tg://proxy?server=mtproxy-hk.vpnnet.win&port=443&secret=dd3eb5546c388a92e4ade9fbfa751cce14">Mtproto 中国香港</a>
 - <a href="tg://proxy?server=mtproxy-tw.vpnnet.win&port=443&secret=dd2d237f8a2e30619b8cebcfd6b22d6b72">Mtproto 中国台湾</a>
-点击上面链接内有TG代理 可以让TG在不用挂翻墙工具直接使用。
+- 点击上面链接内有TG代理 可以让TG在不用挂翻墙工具直接使用。
 
 ·········································································································································································································
 ## Welcome to GitHub Pages
