@@ -3,7 +3,7 @@
 - <a href="tg://proxy?server=mtproxy-tw.vpnnet.win&port=443&secret=dd2d237f8a2e30619b8cebcfd6b22d6b72">Mtproto 中国台湾</a>
 - 点击上面链接直接开启TG代理，可以让TG在不用挂翻墙工具直接使用。
 
-# 国内IP阻断查询： [点击这里](http://ping.pe)
+# 国内IP阻断查询： <a target="_blank" href="http://ping.pe">[点击这里]</a>
 全为绿色为正常，有红色为在不行地区无法打开，全为红色请检查服务器状态。
 
 
