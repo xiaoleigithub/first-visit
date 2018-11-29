@@ -1,7 +1,9 @@
 # telegram代理
 ## TG代理：
 https://t.me/proxy?server=mtproxy-tw.vpnnet.win&port=443&secret=ddc4a17e7a3c0b3aefee637b37e0da1d4e
+
 https://t.me/proxy?server=mtproxy-hk.vpnnet.win&port=443&secret=dd3eb5546c388a92e4ade9fbfa751cce14
+
 点击上面链接内有TG代理 可以让TG在不用挂翻墙工具直接使用。
 
 ·········································································································································································································
