@@ -4,7 +4,7 @@
 - <a href="tg://proxy?server=mtproxy-tw.vpnnet.win&port=443&secret=dd2d237f8a2e30619b8cebcfd6b22d6b72">Mtproto 中国台湾</a>
 - 点击上面链接内有TG代理 可以让TG在不用挂翻墙工具直接使用。
 
-·········································································································································································································
+······························································································································
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/1187558419/first-visit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
